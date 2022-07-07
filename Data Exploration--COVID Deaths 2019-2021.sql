@@ -7,6 +7,7 @@ https://data.cdc.gov/NCHS/AH-Provisional-COVID-19-Deaths-by-Week-and-Age/ikd3-vy
 https://data.cdc.gov/NCHS/Weekly-Provisional-Counts-of-Deaths-by-State-and-S/muzy-jte6
 
 Data from the CDC's National Center for Health Statistics
+Datasets are in the public domain per the CDC website
 */
 
 
