@@ -8,6 +8,9 @@ Link to the City of Los Angeles website with the original data:
 This dataset is in the public domain per the Kaggle page and the City of Los Angeles website
 
 Dataset was first filtered in Excel to limit it to crimes that occurred from 2014 to 2015
+
+Additional research gathered from: 
+	https://grg.org/
 */
 
 
